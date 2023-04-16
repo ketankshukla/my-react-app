@@ -15,7 +15,7 @@ function App()   {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React With Ketan
+          Learn React With Ketan Today!
         </a>
       </header>
     </div>
